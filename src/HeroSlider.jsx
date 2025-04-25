@@ -36,10 +36,10 @@ export default function HeroSlider() {
 
       {/* Optional Text on top */}
       <div className="absolute inset-0 z-20 flex items-center justify-center text-4xl font-bold text-blue-600">
-        <h1 className="text-white text-xl sm:text-3xl md:text-4xl font-extrabold tracking-wide drop-shadow-lg text-center px-4">
+        <h1 className="text-white text-xl sm:text-3xl md:text-5xl font-extrabold tracking-wide drop-shadow-lg text-center px-4">
           Cisco Impact Summit 2025 <br />
           <span className="text-sm font-medium">
-            Parallel & Distributed Computing Workshop
+            Cloud Hosting Zero to Hero
           </span>
         </h1>
       </div>
