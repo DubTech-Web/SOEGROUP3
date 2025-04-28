@@ -6,42 +6,42 @@ function App() {
     {
       name: "Nzemechi Chioma Chinemerem",
       regNo: "20211277792",
-      image: "src/assets/speker10.jpeg",
+      image: "public/assets/speker10.jpeg",
     },
     {
       name: "Chukwudifu Ifeanyichukwu Golden",
       regNo: "20211258722",
-      image: "src/assets/speker10.jpeg",
+      image: "public/assets/speker10.jpeg",
     },
     {
       name: "Odu Lucky Chibuike",
       regNo: "20211275872",
-      image: "src/assets/speker10.jpeg",
+      image: "public/assets/speker10.jpeg",
     },
     {
       name: "Onyemauche Victor",
       regNo: "20211282432",
-      image: "src/assets/speker10.jpeg",
+      image: "public/assets/speker10.jpeg",
     },
     {
       name: "Offorbuike Ekene Collins",
       regNo: "20211290952",
-      image: "src/assets/speker10.jpeg",
+      image: "public/assets/speker10.jpeg",
     },
     {
       name: "Obilonu Ifeanyi",
       regNo: "20211282692",
-      image: "src/assets/speker10.jpeg",
+      image: "public/assets/speker10.jpeg",
     },
     {
       name: "Odu Praise Ebube",
       regNo: "20211287512",
-      image: "src/assets/speker10.jpeg",
+      image: "public/assets/speker10.jpeg",
     },
     {
       name: "Enemuor Chidubem (Leader)",
       regNo: "20211274812",
-      image: "src/assets/speker10.jpeg",
+      image: "public/assets/speker10.jpeg",
     },
   ];
 
