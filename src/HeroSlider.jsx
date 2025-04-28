@@ -1,15 +1,15 @@
 import React, { useState, useEffect } from "react";
 
 const images = [
-  "public/assets/IMG_5881.jpg",
-  "public/assets/IMG_5883.jpg",
-  "public/assets/IMG_5886.jpg",
-  "public/assets/IMG_5889.jpg",
-  "public/assets/IMG_5903.jpg",
-  "public/assets/IMG_5905.jpg",
-  "public/assets/IMG_5911.jpg",
-  "public/assets/IMG_5918.jpg",
-  "public/assets/IMG_5924.jpg",
+  "/assets/IMG_5881.jpg",
+  "/assets/IMG_5883.jpg",
+  "/assets/IMG_5886.jpg",
+  "/assets/IMG_5889.jpg",
+  "/assets/IMG_5903.jpg",
+  "/assets/IMG_5905.jpg",
+  "/assets/IMG_5911.jpg",
+  "/assets/IMG_5918.jpg",
+  "/assets/IMG_5924.jpg",
 ];
 
 export default function HeroSlider() {
